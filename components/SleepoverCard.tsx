@@ -29,11 +29,6 @@ const responsive = {
 
 const carouselImages = [
   {
-    image:
-      "https://cdn.hackclub.com/rescue?url=https://hc-cdn.hel1.your-objectstorage.com/s/v3/643baf61ae5b56c1fb50a3af60600108cf52f3af_image.png",
-    caption: "Hackers at Horizon, a Day of Service event in NYC.",
-  },
-  {
     image: "/images/jpeg.png",
     caption:
       "Programmers working hard at Athena's JPEG game jam in Ottawa, Canada.",
